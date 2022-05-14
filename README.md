@@ -1,4 +1,4 @@
-# fairseq-RoBERTa-classification
+# fairseq-RoBERTa-classify
 
 > https://github.com/pytorch/fairseq/blob/main/examples/roberta/README.custom_classification.md
 
